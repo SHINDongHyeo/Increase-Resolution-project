@@ -48,3 +48,7 @@ https://arxiv.org/abs/1609.07009 (논문)
 
 같은 코드를 작성했는데 문제가 발생함. 아마 라이브러리 버전 차이일 것으로 추정.
 해결되면 이어서 작성해야 하는데, 아직 해결 못하는 중ㅠㅠ
+
+
+## 3. SRCNN 활용해보기
+SRCNN(Super Resolution Convolutional Neural Network)이란 CNN을 사용해 저해상도 이미지를 고해상도로 업스케일링하는 알고리즘을 의미한다.
