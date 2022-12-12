@@ -52,3 +52,7 @@ https://arxiv.org/abs/1609.07009 (논문)
 
 ## 3. SRCNN 활용해보기
 SRCNN(Super Resolution Convolutional Neural Network)이란 CNN을 사용해 저해상도 이미지를 고해상도로 업스케일링하는 알고리즘을 의미한다.
+
+자세한 코드는 `SRCNN실습.ipynb`에 정리해놓았다.
+
+<img src="./images/srcnn결과.png">
