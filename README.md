@@ -55,4 +55,12 @@ SRCNN(Super Resolution Convolutional Neural Network)이란 CNN을 사용해 저�
 
 자세한 코드는 `SRCNN실습.ipynb`에 정리해놓았다.
 
+학습을 통해 validation결과가 좋아지는 모습을 확인할 수 있다.       
+
+<img src="./images/val결과.png">
+
+학습 완료 후 테스트 결과
+
 <img src="./images/srcnn결과.png">
+
+
